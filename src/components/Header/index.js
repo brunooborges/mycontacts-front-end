@@ -7,8 +7,8 @@ export default function Header() {
     <Container>
       <img
         src={logo}
-        alt='MyContacts'
-        width='201'
+        alt="MyContacts"
+        width="201"
       />
     </Container>
   );

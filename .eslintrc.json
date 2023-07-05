@@ -4,19 +4,26 @@
         "es2021": true
     },
     "extends": [
-        "plugin:react/recommended"
+        "plugin:react/recommended",
+        "airbnb",
+        "prettier"
+    ],
+    "overrides": [
     ],
     "parserOptions": {
-        "ecmaFeatures": {
-            "jsx": true
-        },
-        "ecmaVersion": 12,
+        "ecmaVersion": "latest",
         "sourceType": "module"
     },
     "plugins": [
         "react"
     ],
     "rules": {
-      "react/react-in-jsx-scope": "off"
+      "react/require-default-props": "off",
+      "react/react-in-jsx-scope": "off",
+      "import/prefer-default-export": "off",
+      "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+      "react/jsx-no-bind": "off",
+      "no-empty": ["error", {"allowEmptyCatch": true}],
+      "class-methods-use-this": "off"
     }
 }
