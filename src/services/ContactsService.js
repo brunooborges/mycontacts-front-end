@@ -3,7 +3,7 @@ import HttpClient from './utils/HttpClient';
 
 class ContactsService {
   constructor() {
-    this.httpClient = new HttpClient('https://mycontactsapi.up.railway.app');
+    this.httpClient = new HttpClient('https://mycontacts-api-juba.onrender.com');
   }
 
   async listContacts(orderBy, signal) {
