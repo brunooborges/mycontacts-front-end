@@ -3,7 +3,7 @@ import HttpClient from './utils/HttpClient';
 
 class CaterogiesService {
   constructor() {
-    this.httpClient = new HttpClient('http://localhost:3001');
+    this.httpClient = new HttpClient('https://mycontactsapi.up.railway.app');
   }
 
   async listCategories(signal) {
