@@ -6,17 +6,17 @@ import NewContact from './pages/NewContact';
 
 export default function Router() {
   return (
-    <Routes>
+    <Routes basename='/mycontacts-front-end'>
       <Route
-        path="/"
+        path='/'
         element={<Home />}
       />
       <Route
-        path="/new"
+        path='/new'
         element={<NewContact />}
       />
       <Route
-        path="/edit/:id"
+        path='/edit/:id'
         element={<EditContact />}
       />
     </Routes>

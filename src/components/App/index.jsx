@@ -12,7 +12,7 @@ import { Container } from './styles';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/mycontacts-front-end'>
       <ThemeProvider theme={defaultTheme}>
         <ToastContainer />
         <GlobalStyles />
