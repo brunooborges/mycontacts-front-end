@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/mycontacts-front-end/static/js/main.ca28d747.js",
+    "main.js": "/mycontacts-front-end/static/js/main.d8ea96c7.js",
     "static/media/logo.svg": "/mycontacts-front-end/static/media/logo.f45975ceaa8f3aed75634bf10430413e.svg",
     "static/media/empty-box.svg": "/mycontacts-front-end/static/media/empty-box.4433f300e83c493eb0e9c21b94036932.svg",
     "static/media/magnifier-question.svg": "/mycontacts-front-end/static/media/magnifier-question.34784372ec6e3a1a39ed61f4995ac8ce.svg",
@@ -11,9 +11,9 @@
     "static/media/arrow.svg": "/mycontacts-front-end/static/media/arrow.ef8690b9ee6278ea2edd60a1e31a3493.svg",
     "static/media/check-circle.svg": "/mycontacts-front-end/static/media/check-circle.06a14cad03ca629164376ca134e7df92.svg",
     "static/media/x-circle.svg": "/mycontacts-front-end/static/media/x-circle.91f0bd1aec1cbe05c5fee5b33dd77b41.svg",
-    "main.ca28d747.js.map": "/mycontacts-front-end/static/js/main.ca28d747.js.map"
+    "main.d8ea96c7.js.map": "/mycontacts-front-end/static/js/main.d8ea96c7.js.map"
   },
   "entrypoints": [
-    "static/js/main.ca28d747.js"
+    "static/js/main.d8ea96c7.js"
   ]
 }
