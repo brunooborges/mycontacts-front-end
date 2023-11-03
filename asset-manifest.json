@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.88f58967.js",
-    "static/media/logo.svg": "/static/media/logo.f45975ceaa8f3aed75634bf10430413e.svg",
-    "static/media/empty-box.svg": "/static/media/empty-box.4433f300e83c493eb0e9c21b94036932.svg",
-    "static/media/magnifier-question.svg": "/static/media/magnifier-question.34784372ec6e3a1a39ed61f4995ac8ce.svg",
-    "index.html": "/index.html",
-    "static/media/sad.svg": "/static/media/sad.d50f8dcf65df1501fab033d8ccb5cb3a.svg",
-    "static/media/trash.svg": "/static/media/trash.d6d5de5df1b680d0c0c849d88e061916.svg",
-    "static/media/edit.svg": "/static/media/edit.cd72068427fe58535b8e1948394822d1.svg",
-    "static/media/arrow.svg": "/static/media/arrow.ef8690b9ee6278ea2edd60a1e31a3493.svg",
-    "static/media/check-circle.svg": "/static/media/check-circle.06a14cad03ca629164376ca134e7df92.svg",
-    "static/media/x-circle.svg": "/static/media/x-circle.91f0bd1aec1cbe05c5fee5b33dd77b41.svg",
-    "main.88f58967.js.map": "/static/js/main.88f58967.js.map"
+    "main.js": "/mycontacts-front-end/static/js/main.44a4f9f7.js",
+    "static/media/logo.svg": "/mycontacts-front-end/static/media/logo.f45975ceaa8f3aed75634bf10430413e.svg",
+    "static/media/empty-box.svg": "/mycontacts-front-end/static/media/empty-box.4433f300e83c493eb0e9c21b94036932.svg",
+    "static/media/magnifier-question.svg": "/mycontacts-front-end/static/media/magnifier-question.34784372ec6e3a1a39ed61f4995ac8ce.svg",
+    "index.html": "/mycontacts-front-end/index.html",
+    "static/media/sad.svg": "/mycontacts-front-end/static/media/sad.d50f8dcf65df1501fab033d8ccb5cb3a.svg",
+    "static/media/trash.svg": "/mycontacts-front-end/static/media/trash.d6d5de5df1b680d0c0c849d88e061916.svg",
+    "static/media/edit.svg": "/mycontacts-front-end/static/media/edit.cd72068427fe58535b8e1948394822d1.svg",
+    "static/media/arrow.svg": "/mycontacts-front-end/static/media/arrow.ef8690b9ee6278ea2edd60a1e31a3493.svg",
+    "static/media/check-circle.svg": "/mycontacts-front-end/static/media/check-circle.06a14cad03ca629164376ca134e7df92.svg",
+    "static/media/x-circle.svg": "/mycontacts-front-end/static/media/x-circle.91f0bd1aec1cbe05c5fee5b33dd77b41.svg",
+    "main.44a4f9f7.js.map": "/mycontacts-front-end/static/js/main.44a4f9f7.js.map"
   },
   "entrypoints": [
-    "static/js/main.88f58967.js"
+    "static/js/main.44a4f9f7.js"
   ]
 }
