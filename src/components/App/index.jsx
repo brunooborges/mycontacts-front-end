@@ -7,6 +7,7 @@ import defaultTheme from '../../assets/styles/Themes/default';
 import Router from '../../Router';
 import Header from '../Header';
 import ToastContainer from '../Toast/ToastContainer';
+import WakeUpGate from '../WakeUpGate';
 
 import { Container } from './styles';
 
@@ -19,7 +20,9 @@ function App() {
 
         <Container>
           <Header />
-          <Router />
+          <WakeUpGate>
+            <Router />
+          </WakeUpGate>
         </Container>
       </ThemeProvider>
     </BrowserRouter>
