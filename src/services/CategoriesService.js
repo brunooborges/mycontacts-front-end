@@ -1,9 +1,10 @@
 import CategoryMapper from './mappers/CategoryMapper';
+import { API_URL } from '../config';
 import HttpClient from './utils/HttpClient';
 
 class CaterogiesService {
   constructor() {
-    this.httpClient = new HttpClient('https://mycontacts-api-juba.onrender.com');
+    this.httpClient = new HttpClient(API_URL);
   }
 
   async listCategories(signal) {
